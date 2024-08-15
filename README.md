@@ -1,3 +1,4 @@
+![2024-08-1516-43-32-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/4c69f140-aff8-4810-a0c2-888a499ca51a)
 
 # Proyecto: Tienda de Libros
 
