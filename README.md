@@ -56,3 +56,8 @@ El proyecto está organizado en los siguientes módulos y componentes:
 - Implementar un sistema de autenticación y roles para gestionar el acceso a las operaciones.
 - Añadir paginación y búsqueda en el listado de libros.
 - Integrar una capa de frontend utilizando Thymeleaf o React para mejorar la experiencia de usuario.
+
+## 👤 Contacto
+Si quieres compartir alguna observación, comentario o consulta acerca de dicho proyecto o algo relacionado a la programación, puedes escribirme a los siguientes medios: 
+- [Linkedin](https://www.linkedin.com/in/leonardo562/)
+- [Correo Electrónico](mailto:leo.moya562@gmail.com)
